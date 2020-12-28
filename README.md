@@ -16,4 +16,4 @@ c.close()
 - Here is how the land is used. https://www.mrlc.gov/data/legends/national-land-cover-database-2016-nlcd2016-legend
 - Since the dataset covers the US, however images.db and images.zip cover Wisconsin only.
 
-![](/images/8pm.png)
+![](/images/madison.png)
