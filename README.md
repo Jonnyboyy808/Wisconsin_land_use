@@ -9,7 +9,7 @@ c.close()
 - c.list_images returns an alphabetically sorted list of images
 - c.images_year("area#.npy") returns the year from the DB corresponding to a specific image. 
 - c.image_name("area#.npy") returns the name from the DB corresponding to a specific image. 
-- c.image_load("area#.npy") returns a numpy area that encodes area usage. 
+- c.image_load("area#.npy") returns a numpy array that encodes area usage. 
 - c.plot_img("area#.npy", ax=ax) returns a plot like the one below with the image's year and city name.
 
 - Dataset that breaks the US into 30m squares and categorizes show chunks of land have been used from 2001 to 2016 https://www.mrlc.gov/data/nlcd-land-cover-conus-all-years
